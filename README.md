@@ -1,4 +1,4 @@
-# Owner-avatar-Summer-School-2023_2
+# Summer-School-2023_2
 Summer School on Full Stack Open-Source Ecosystem for Processor Based Chip Design
 
 UCERD Technology Development Lab (TechPark is a state-of-the-art secure processor and supercomputer based lab to solve Artificial Intelligence (AI) and Big-Data applications. The proposed technology lab will give support to final year projects, faculty and industrial problems. The lab provides guidance and resources to solve real-life projects. The technology lab targets following areas:
