@@ -12,3 +12,6 @@ The proposed technology lab will give support to final year projects, faculty an
         ◦ Designing RISC-V processor  architecture and application specific accelerators in Logisim, HDL, and different SOC framework tools.
         ◦ Functional Testing and verification of computer, and system-on-chip architecture.
         ◦ FOSS VLSI Design Tools for Formal Verification & ASIC chip design
+
+Highlights and Pictures of the Event at
+https://ucerd.com/RISCV_chip.php
